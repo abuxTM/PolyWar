@@ -1,0 +1,2 @@
+# PolyWar
+Simple rougelike project
